@@ -1,0 +1,9 @@
+transformers==4.48.3
+tqdm==4.67.1
+openai==1.64.0
+together==1.4.6
+evaluate==0.4.1
+nltk==3.8.1
+rouge==1.0.1
+torch==2.2.1
+numpy==1.24.3
